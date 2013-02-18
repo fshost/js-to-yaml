@@ -1,0 +1,11 @@
+{
+  "name": "js-to-yaml",
+  "version": "0.0.1",
+  "description": "serializes javascript objects to yaml-readable string",
+  "main": "js-to-yaml.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fshost/js-to-yaml"
+  },
+  "license": "MIT"
+}
